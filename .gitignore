@@ -1,0 +1,7 @@
+.idea/
+/cei/*
+!cei/.gitkeep
+/result/*
+!result/.gitkeep
+/import/*
+!import/.gitkeep
